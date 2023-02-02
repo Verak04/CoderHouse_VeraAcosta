@@ -1,0 +1,29 @@
+nav{
+  margin: 0;
+  padding: 0;
+}
+#navbar{
+  background-color: rgb(247, 214, 190);
+}
+
+#boton {
+  background-color: rgb(246, 183, 138);
+}
+
+#boton:hover {
+  background-color: rgb(246, 115, 22);
+  color: aliceblue;
+}
+
+.novedades {
+  color: rgb(246, 115, 22);
+}
+
+#nav_lista a:hover {
+  color: rgb(246, 115, 22);
+}
+
+#nav_menu {
+  border: none;
+  background-color: rgb(240, 201, 168);
+}

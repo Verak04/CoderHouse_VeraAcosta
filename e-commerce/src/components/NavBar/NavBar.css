@@ -1,0 +1,42 @@
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+#nav_bar {
+    background-color: rgb(247, 214, 190);
+}
+
+#boton {
+    background-color: rgb(246, 183, 138);
+    color: rgb(246, 115, 22);
+}
+
+#boton:hover {
+    background-color: rgb(246, 115, 22);
+    color: aliceblue;
+}
+
+.novedades {
+    color: rgb(246, 115, 22);
+}
+
+#nav_lista a {
+    color: rgb(112, 52, 10);
+}
+
+#nav_lista a:hover {
+    color: rgb(246, 115, 22);
+}
+
+#nav_menu {
+    border: none;
+    background-color: rgb(240, 201, 168);
+}
+
+#marca {
+    color: rgb(205, 64, 88);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: xx-large;
+}
